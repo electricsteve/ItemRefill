@@ -1,3 +1,4 @@
+//file:noinspection AvoidDependencyNamedArgumentsNotation
 plugins {
     id 'multiloader-common'
     id 'net.neoforged.moddev'
